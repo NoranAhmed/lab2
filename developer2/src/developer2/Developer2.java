@@ -18,9 +18,6 @@ public class Developer2 {
         // TODO code application logic here
         int x =10 ; // first commit by aya
         int y =10; // second by aya
-         int z =15; // third by cloned project
-         int c = 10;
-    
     }
     
 }
