@@ -21,4 +21,8 @@ public class Developer2 {
         int b = 1505;
     }
     
+    public void add(int x, int y)
+    {
+        System.out.println("developer2.Developer2.add()");
+    }
 }
