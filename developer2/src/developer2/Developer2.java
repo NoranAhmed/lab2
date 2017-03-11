@@ -23,6 +23,6 @@ public class Developer2 {
     
     public void add(int x, int y)
     {
-        System.out.println("developer2.Developer2.add()");
+        System.out.println("");
     }
 }
