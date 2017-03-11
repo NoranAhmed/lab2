@@ -16,7 +16,8 @@ public class Developer2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int x =10 ; // first commit
+        int x =10 ; // first commit by aya
+        int y =10; // second by aya
     }
     
 }
